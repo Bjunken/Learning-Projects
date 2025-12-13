@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Linus\\source\\repos\\Learning-Projects\\Mini-analytics\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{92372AFA-BA9E-465E-A751-95E97184F7BA}|Mini-analytics.pyproj|C:\\Users\\Linus\\source\\repos\\Learning-Projects\\Mini-analytics\\app\\main.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{92372AFA-BA9E-465E-A751-95E97184F7BA}|Mini-analytics.pyproj|solutionrelative:app\\main.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92372AFA-BA9E-465E-A751-95E97184F7BA}|Mini-analytics.pyproj|C:\\Users\\Linus\\source\\repos\\Learning-Projects\\Mini-analytics\\requirements.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{92372AFA-BA9E-465E-A751-95E97184F7BA}|Mini-analytics.pyproj|solutionrelative:requirements.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92372AFA-BA9E-465E-A751-95E97184F7BA}|Mini-analytics.pyproj|C:\\Users\\Linus\\source\\repos\\Learning-Projects\\Mini-analytics\\app\\database.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{92372AFA-BA9E-465E-A751-95E97184F7BA}|Mini-analytics.pyproj|solutionrelative:app\\database.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92372AFA-BA9E-465E-A751-95E97184F7BA}|Mini-analytics.pyproj|C:\\Users\\Linus\\source\\repos\\Learning-Projects\\Mini-analytics\\app\\analytics.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{92372AFA-BA9E-465E-A751-95E97184F7BA}|Mini-analytics.pyproj|solutionrelative:app\\analytics.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92372AFA-BA9E-465E-A751-95E97184F7BA}|Mini-analytics.pyproj|C:\\Users\\Linus\\source\\repos\\Learning-Projects\\Mini-analytics\\app\\models.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{92372AFA-BA9E-465E-A751-95E97184F7BA}|Mini-analytics.pyproj|solutionrelative:app\\models.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "requirements.txt",
+              "DocumentMoniker": "C:\\Users\\Linus\\source\\repos\\Learning-Projects\\Mini-analytics\\requirements.txt",
+              "RelativeDocumentMoniker": "requirements.txt",
+              "ToolTip": "C:\\Users\\Linus\\source\\repos\\Learning-Projects\\Mini-analytics\\requirements.txt",
+              "RelativeToolTip": "requirements.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-12-13T10:46:43.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.py",
+              "DocumentMoniker": "C:\\Users\\Linus\\source\\repos\\Learning-Projects\\Mini-analytics\\app\\main.py",
+              "RelativeDocumentMoniker": "app\\main.py",
+              "ToolTip": "C:\\Users\\Linus\\source\\repos\\Learning-Projects\\Mini-analytics\\app\\main.py",
+              "RelativeToolTip": "app\\main.py",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-12-13T10:44:59.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "database.py",
+              "DocumentMoniker": "C:\\Users\\Linus\\source\\repos\\Learning-Projects\\Mini-analytics\\app\\database.py",
+              "RelativeDocumentMoniker": "app\\database.py",
+              "ToolTip": "C:\\Users\\Linus\\source\\repos\\Learning-Projects\\Mini-analytics\\app\\database.py",
+              "RelativeToolTip": "app\\database.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-12-13T10:45:19.856Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "analytics.py",
+              "DocumentMoniker": "C:\\Users\\Linus\\source\\repos\\Learning-Projects\\Mini-analytics\\app\\analytics.py",
+              "RelativeDocumentMoniker": "app\\analytics.py",
+              "ToolTip": "C:\\Users\\Linus\\source\\repos\\Learning-Projects\\Mini-analytics\\app\\analytics.py",
+              "RelativeToolTip": "app\\analytics.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-12-13T10:45:44.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "models.py",
+              "DocumentMoniker": "C:\\Users\\Linus\\source\\repos\\Learning-Projects\\Mini-analytics\\app\\models.py",
+              "RelativeDocumentMoniker": "app\\models.py",
+              "ToolTip": "C:\\Users\\Linus\\source\\repos\\Learning-Projects\\Mini-analytics\\app\\models.py",
+              "RelativeToolTip": "app\\models.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-12-13T10:45:37.081Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
