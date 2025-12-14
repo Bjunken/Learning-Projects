@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+sqlalchemy
+passlib[bcrypt]
+python-jose
+pydantic
+authlib
+httpx
+bcrypt==3.2.2
+itsdangerous==2.1.2

@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36804.6 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "app-authServiceTest", "app-authServiceTest.pyproj", "{C0BF36E2-CDF6-4DC1-BBCD-25192F660DFD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C0BF36E2-CDF6-4DC1-BBCD-25192F660DFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0BF36E2-CDF6-4DC1-BBCD-25192F660DFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A880D27D-541A-4E9E-98D8-5ABB8B6D6F01}
+	EndGlobalSection
+EndGlobal
