@@ -1,0 +1,28 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Run Server (Flask-SocketIO)",
+      "type": "python",
+      "request": "launch",
+      "program": "${workspaceFolder}/server/app.py",
+      "console": "integratedTerminal",
+      "cwd": "${workspaceFolder}/server",
+      "env": {}
+    },
+    {
+      "name": "Run Client (socketio test)",
+      "type": "python",
+      "request": "launch",
+      "program": "${workspaceFolder}/scripts/test_client_socketio.py",
+      "console": "integratedTerminal",
+      "cwd": "${workspaceFolder}"
+    }
+  ],
+  "compounds": [
+    {
+      "name": "Server + Client",
+      "configurations": ["Run Server (Flask-SocketIO)", "Run Client (socketio test)"]
+    }
+  ]
+}

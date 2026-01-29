@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Linus\\source\\repos\\Learning-Projects\\Game_client_big_project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C20318E5-72F6-407A-9B86-DAE4092920B2}|Game_client_project 2.0.pyproj|C:\\Users\\Linus\\source\\repos\\Learning-Projects\\Game_client_big_project\\.vscode\\launch.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C20318E5-72F6-407A-9B86-DAE4092920B2}|Game_client_project 2.0.pyproj|solutionrelative:.vscode\\launch.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launch.json",
+              "DocumentMoniker": "C:\\Users\\Linus\\source\\repos\\Learning-Projects\\Game_client_big_project\\.vscode\\launch.json",
+              "RelativeDocumentMoniker": ".vscode\\launch.json",
+              "ToolTip": "C:\\Users\\Linus\\source\\repos\\Learning-Projects\\Game_client_big_project\\.vscode\\launch.json",
+              "RelativeToolTip": ".vscode\\launch.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-29T12:59:46.609Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

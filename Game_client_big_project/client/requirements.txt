@@ -1,0 +1,11 @@
+# Client Dependencies - Install with: pip install -r requirements.txt
+
+# Image Processing
+Pillow>=10.1.0
+
+# HTTP Requests
+requests>=2.31.0
+
+# WebSocket Client
+python-socketio[client]==5.10.0
+websocket-client==1.6.4
